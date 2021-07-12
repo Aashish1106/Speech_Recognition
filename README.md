@@ -17,8 +17,7 @@ Step.2: wait for package to install then type:-
 Step.3:- If the above command doesn’t work in windows then use the below commands in the windows command prompt:
                        
     pip install pipwin
-    
-                        
+                
     pipwin install pyaudio
 
 We will be using Google Speech Recognition API for letting the software understand our given languages
