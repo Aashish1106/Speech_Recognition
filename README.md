@@ -8,17 +8,17 @@ PyAudio Module: It is a set of Python bindings for PortAudio, a cross-platform C
 
 Step.1: Go to the cmd prompt(for windows os) then type:- 
 
-pip install SpeechRecognition
+    pip install SpeechRecognition
 
 Step.2: wait for package to install then type:- 
 
-pip install PyAudio
+    pip install PyAudio
 
 Step.3:- If the above command doesn’t work in windows then use the below commands in the windows command prompt:
                        
-pip install pipwin
+   pip install pipwin
                         
-pipwin install pyaudio
+   pipwin install pyaudio
 
 We will be using Google Speech Recognition API for letting the software understand our given languages
 
