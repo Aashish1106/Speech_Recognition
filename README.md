@@ -37,7 +37,7 @@ We will be using Google Speech Recognition API for letting the software understa
 
 https://cloud.google.com/speech-to-text/docs/languages
 
-**Accuracy:- **
+**Accuracy:-**
 
 The reliability of speech-to-text hinges on its accuracy rate – i.e., how many errors it would contain on an average. This is measured in Word Error Rate (WER) which is the percentage of errors for every 100 words. Technically, accuracy is the exact inverse of WER; if a piece of transcribed text contains 2% of errors, then it means that it is 98% accurate.
 As per benchmarks published in March 2020, Google came in at 79% and a May benchmark found Google largely the same at 84.46%.
